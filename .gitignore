@@ -3,4 +3,4 @@ build/
 *.bin
 *.elf
 *.ko
-
+/rootfs

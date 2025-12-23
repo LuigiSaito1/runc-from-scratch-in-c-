@@ -6,7 +6,6 @@
 #include <sys/wait.h>
 #include <iostream>
 #include <cstring>
-#include <cerrno>
 
 #define STACK_SIZE (1024 * 1024)
 
